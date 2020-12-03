@@ -7,6 +7,7 @@ require (
 	github.com/golang/protobuf v1.4.3
 	github.com/influenzanet/go-utils v0.2.6
 	github.com/influenzanet/logging-service v0.1.0
+	github.com/influenzanet/messaging-service v0.8.1
 	github.com/influenzanet/study-service v0.13.2
 	github.com/influenzanet/user-management-service v0.18.7
 	github.com/jordan-wright/email v4.0.1-0.20200917010138-e1c00e156980+incompatible

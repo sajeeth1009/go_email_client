@@ -72,6 +72,7 @@ github.com/influenzanet/go-utils v0.2.1/go.mod h1:uHC1DNbnHH0zACsMLLP98pcH9R0BJu
 github.com/influenzanet/go-utils v0.2.2/go.mod h1:uHC1DNbnHH0zACsMLLP98pcH9R0BJuV4d+vUAqcqoS0=
 github.com/influenzanet/go-utils v0.2.4/go.mod h1:uHC1DNbnHH0zACsMLLP98pcH9R0BJuV4d+vUAqcqoS0=
 github.com/influenzanet/go-utils v0.2.5/go.mod h1:uHC1DNbnHH0zACsMLLP98pcH9R0BJuV4d+vUAqcqoS0=
+github.com/influenzanet/go-utils v0.2.6 h1:gYdTqt5Ma48GsGCmAzxo1Gyz7fsJx3bsbikdcgGdE2w=
 github.com/influenzanet/go-utils v0.2.6/go.mod h1:uHC1DNbnHH0zACsMLLP98pcH9R0BJuV4d+vUAqcqoS0=
 github.com/influenzanet/logging-service v0.1.0/go.mod h1:IJ4fo8B8zMhzG3HnFDLCQWDYQmO3rejqYVcN0c/h8eU=
 github.com/influenzanet/messaging-service v0.2.0/go.mod h1:11yQIQT4x91kVVGQw4/H4YgHxaKdhDBGz84f8kZvC1g=
@@ -80,6 +81,7 @@ github.com/influenzanet/messaging-service v0.6.0/go.mod h1:g161zqRK7aCg/o56Ij6HM
 github.com/influenzanet/messaging-service v0.6.1/go.mod h1:D8TALbql5vPWRwOiK6Vh5KodUP4dHAtr4F6GdPsRlj8=
 github.com/influenzanet/messaging-service v0.7.1/go.mod h1:mnd4+t7q/EaWGRGOliu5YVYRk4pZeC+q9Y2hWiLcrwE=
 github.com/influenzanet/messaging-service v0.8.0/go.mod h1:JnbHpEDNp/YI+GGnIr/7n9hGCP87aBY1M+8h40dzg7k=
+github.com/influenzanet/messaging-service v0.8.1 h1:mvt5+C7nA1JhWu5DXx+/+x+vjVIo6nBxiaiVZaR2gJo=
 github.com/influenzanet/messaging-service v0.8.1/go.mod h1:FXEXU/As0Kl4AVXUMMe0aP1r/QsN3JjrwOLNPG7mFnM=
 github.com/influenzanet/study-service v0.6.2/go.mod h1:S/inqN3mSNT0cQ3xgi8upUEXWzBIxn6CirfXzhuLZsw=
 github.com/influenzanet/study-service v0.8.0/go.mod h1:S/inqN3mSNT0cQ3xgi8upUEXWzBIxn6CirfXzhuLZsw=
@@ -146,6 +148,7 @@ go.mongodb.org/mongo-driver v1.3.4/go.mod h1:MSWZXKOynuguX+JSvwP8i+58jYCXxbia8HS
 go.mongodb.org/mongo-driver v1.3.5/go.mod h1:Ual6Gkco7ZGQw8wE1t4tLnvBsf6yVSM60qW6TgOeJ5c=
 go.mongodb.org/mongo-driver v1.4.0/go.mod h1:llVBH2pkj9HywK0Dtdt6lDikOjFLbceHVu/Rc0iMKLs=
 go.mongodb.org/mongo-driver v1.4.1/go.mod h1:llVBH2pkj9HywK0Dtdt6lDikOjFLbceHVu/Rc0iMKLs=
+go.mongodb.org/mongo-driver v1.4.3 h1:moga+uhicpVshTyaqY9L23E6QqwcHRUv1sqyOsoyOO8=
 go.mongodb.org/mongo-driver v1.4.3/go.mod h1:WcMNYLx/IlOxLe6JRJiv2uXuCz6zBLndR4SoGjYphSc=
 golang.org/x/crypto v0.0.0-20180904163835-0709b304e793/go.mod h1:6SG95UA2DQfeDnfUPMdvaQW0Q7yPrPDi9nlGo2tz2b4=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
